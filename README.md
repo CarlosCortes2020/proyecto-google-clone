@@ -1,1 +1,1 @@
-# proyecto.google-clone
+# proyecto-google-clone
